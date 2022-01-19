@@ -1,2 +1,2 @@
-# Clase-22
-Primer avance en el juego del pirata
+# PRO-C22
+estructura alámbrica para c22 
